@@ -1,0 +1,4 @@
+D:\gitroot\NewSale\NewSale.Dto\bin\Debug\NewSale.Dto.dll
+D:\gitroot\NewSale\NewSale.Dto\bin\Debug\NewSale.Dto.pdb
+D:\gitroot\NewSale\NewSale.Dto\obj\Debug\NewSale.Dto.dll
+D:\gitroot\NewSale\NewSale.Dto\obj\Debug\NewSale.Dto.pdb

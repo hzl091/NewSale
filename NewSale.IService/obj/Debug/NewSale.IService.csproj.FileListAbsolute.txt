@@ -1,0 +1,7 @@
+D:\gitroot\NewSale\NewSale.IService\bin\Debug\NewSale.IService.dll
+D:\gitroot\NewSale\NewSale.IService\bin\Debug\NewSale.IService.pdb
+D:\gitroot\NewSale\NewSale.IService\bin\Debug\NewSale.Dto.dll
+D:\gitroot\NewSale\NewSale.IService\bin\Debug\NewSale.Dto.pdb
+D:\gitroot\NewSale\NewSale.IService\obj\Debug\NewSale.IService.csprojResolveAssemblyReference.cache
+D:\gitroot\NewSale\NewSale.IService\obj\Debug\NewSale.IService.dll
+D:\gitroot\NewSale\NewSale.IService\obj\Debug\NewSale.IService.pdb
